@@ -1,0 +1,14 @@
+{
+  "Name": "@azure/arm-avs",
+  "Version": "3.1.2-alpha.20221003.1",
+  "DevVersion": "3.1.2-alpha.20221004.1",
+  "DirectoryPath": "sdk/avs/arm-avs",
+  "ServiceDirectory": "avs",
+  "ReadMePath": "sdk/avs/arm-avs/README.md",
+  "ChangeLogPath": "sdk/avs/arm-avs/CHANGELOG.md",
+  "Group": null,
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-arm-avs",
+  "ReleaseStatus": "Unreleased"
+}
