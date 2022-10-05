@@ -1,10 +1,10 @@
 ---
-ms.author: jeffish
-description: Reference for Azure IoT Hub SDK for JavaScript
 ms.service: iothub
-ms.devlang: javascript
 title: Azure IoT Hub SDK for JavaScript
-ms.data: 10/04/2022
+description: Reference for Azure IoT Hub SDK for JavaScript
+ms.devlang: javascript
+ms.data: 10/05/2022
+ms.author: jeffish
 ms.topic: reference
 author: xirzec
 ms.date: 06/15/2022

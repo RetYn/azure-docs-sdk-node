@@ -1,10 +1,10 @@
 ---
-ms.author: jeffish
-description: Reference for Azure Active Directory SDK for JavaScript
 ms.service: activedirectory
-ms.devlang: javascript
 title: Azure Active Directory SDK for JavaScript
-ms.data: 10/04/2022
+description: Reference for Azure Active Directory SDK for JavaScript
+ms.devlang: javascript
+ms.data: 10/05/2022
+ms.author: jeffish
 ms.topic: reference
 author: xirzec
 ms.date: 06/15/2022
