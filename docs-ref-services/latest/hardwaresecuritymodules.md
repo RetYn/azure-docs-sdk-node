@@ -1,12 +1,12 @@
 ---
-author: xirzec
 ms.devlang: javascript
-title: Azure Hardwaresecuritymodules SDK for JavaScript
-ms.data: 10/05/2022
 ms.service: hardwaresecuritymodules
 ms.author: jeffish
-description: Reference for Azure Hardwaresecuritymodules SDK for JavaScript
+ms.data: 10/06/2022
+author: xirzec
 ms.topic: reference
+title: Azure Hardwaresecuritymodules SDK for JavaScript
+description: Reference for Azure Hardwaresecuritymodules SDK for JavaScript
 ---
 # Azure Hardwaresecuritymodules SDK for JavaScript - latest
 

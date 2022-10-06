@@ -1,12 +1,12 @@
 ---
-author: xirzec
 ms.devlang: javascript
-title: Azure Visual Studio Team Services SDK for JavaScript
-ms.data: 10/05/2022
 ms.service: visualstudioteamservices
 ms.author: jeffish
-description: Reference for Azure Visual Studio Team Services SDK for JavaScript
+ms.data: 10/06/2022
+author: xirzec
 ms.topic: reference
+title: Azure Visual Studio Team Services SDK for JavaScript
+description: Reference for Azure Visual Studio Team Services SDK for JavaScript
 ---
 # Azure Visual Studio Team Services SDK for JavaScript - preview
 

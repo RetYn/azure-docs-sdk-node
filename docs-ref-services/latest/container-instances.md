@@ -1,12 +1,12 @@
 ---
-author: xirzec
 ms.devlang: javascript
-title: Azure Container Instances SDK for JavaScript
-ms.data: 10/05/2022
 ms.service: containerinstances
 ms.author: jeffish
-description: Reference for Azure Container Instances SDK for JavaScript
+ms.data: 10/06/2022
+author: xirzec
 ms.topic: reference
+title: Azure Container Instances SDK for JavaScript
+description: Reference for Azure Container Instances SDK for JavaScript
 ---
 # Azure Container Instances SDK for JavaScript - latest
 
