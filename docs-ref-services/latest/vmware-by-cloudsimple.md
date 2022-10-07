@@ -1,11 +1,11 @@
 ---
-ms.author: jeffish
-ms.devlang: javascript
-ms.data: 10/06/2022
-title: Azure VMWare by CloudSimple SDK for JavaScript
-author: xirzec
-ms.topic: reference
 ms.service: vmwarebycloudsimple
+ms.devlang: javascript
+author: xirzec
+ms.author: jeffish
+ms.data: 10/07/2022
+ms.topic: reference
+title: Azure VMWare by CloudSimple SDK for JavaScript
 description: Reference for Azure VMWare by CloudSimple SDK for JavaScript
 ---
 # Azure VMWare by CloudSimple SDK for JavaScript - latest

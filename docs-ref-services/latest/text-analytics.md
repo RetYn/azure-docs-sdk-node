@@ -1,11 +1,11 @@
 ---
-ms.author: dealmaha
-ms.devlang: javascript
-ms.data: 10/06/2022
-title: Azure Text Analytics SDK for JavaScript
-author: deyaaeldeen
-ms.topic: reference
 ms.service: textanalytics
+ms.devlang: javascript
+author: deyaaeldeen
+ms.author: dealmaha
+ms.data: 10/07/2022
+ms.topic: reference
+title: Azure Text Analytics SDK for JavaScript
 description: Reference for Azure Text Analytics SDK for JavaScript
 ---
 # Azure Text Analytics SDK for JavaScript - latest

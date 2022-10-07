@@ -1,11 +1,11 @@
 ---
-ms.author: dawatrou
-ms.devlang: javascript
-ms.data: 10/06/2022
-title: Azure Batch AI SDK for JavaScript
-author: dpwatrous
-ms.topic: reference
 ms.service: batchai
+ms.devlang: javascript
+author: dpwatrous
+ms.author: dawatrou
+ms.data: 10/07/2022
+ms.topic: reference
+title: Azure Batch AI SDK for JavaScript
 description: Reference for Azure Batch AI SDK for JavaScript
 ms.date: 06/15/2022
 ---
