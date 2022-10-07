@@ -1,7 +1,7 @@
 {
   "Name": "@azure/identity",
   "Version": "3.0.0-alpha.20220923.1",
-  "DevVersion": "3.0.0-alpha.20221006.1",
+  "DevVersion": "3.0.0-alpha.20221007.1",
   "DirectoryPath": "sdk/identity/identity",
   "ServiceDirectory": "identity",
   "ReadMePath": "sdk/identity/identity/README.md",
