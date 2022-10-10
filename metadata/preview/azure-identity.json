@@ -1,7 +1,7 @@
 {
   "Name": "@azure/identity",
-  "Version": "3.0.0-beta.1",
-  "DevVersion": null,
+  "Version": "3.1.0-alpha.20221010.2",
+  "DevVersion": "3.1.0-alpha.20221010.2",
   "DirectoryPath": "sdk/identity/identity",
   "ServiceDirectory": "identity",
   "ReadMePath": "sdk/identity/identity/README.md",
@@ -10,5 +10,5 @@
   "SdkType": "client",
   "IsNewSdk": true,
   "ArtifactName": "azure-identity",
-  "ReleaseStatus": "2022-08-24"
+  "ReleaseStatus": "Unreleased"
 }
