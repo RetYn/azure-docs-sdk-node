@@ -430,6 +430,9 @@
       ]
     },
     "fileMetadata": {
+      "ms.subservice": {
+        "docs-ref-autogen/@azure/arm-appinsights/**": "application-insights"
+      },
       "feedback_system": {
         "docs-ref-autogen/**/*": "None"
       },
@@ -462,7 +465,7 @@
         "docs-ref-autogen/@azure/arm-advisor/**": "advisor",
         "docs-ref-autogen/@azure/arm-analysisservices/**": "analysis-services",
         "docs-ref-autogen/@azure/arm-apimanagement/**": "api-management",
-        "docs-ref-autogen/@azure/arm-appinsights/**": "application-insights",
+        "docs-ref-autogen/@azure/arm-appinsights/**": "azure-monitor",
         "docs-ref-autogen/@azure/arm-authorization/**": "authorization",
         "docs-ref-autogen/@azure/arm-automation/**": "automation",
         "docs-ref-autogen/@azure/arm-azurestack/**": "azure-stack",
