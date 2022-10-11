@@ -430,6 +430,9 @@
       ]
     },
     "fileMetadata": {
+      "ms.subservice": {
+        "docs-ref-autogen/@azure/loganalytics/**": "logs"
+      },
       "feedback_system": {
         "docs-ref-autogen/**/*": "None"
       },
@@ -568,7 +571,7 @@
         "docs-ref-autogen/@azure/identity/**": "azure",
         "docs-ref-autogen/@azure/keyvault-keys/**": "key-vault",
         "docs-ref-autogen/@azure/keyvault-secrets/**": "key-vault",
-        "docs-ref-autogen/@azure/loganalytics/**": "log-analytics",
+        "docs-ref-autogen/@azure/loganalytics/**": "azure-monitor",
         "docs-ref-autogen/@azure/ms-rest-azure-env/**": "azure",
         "docs-ref-autogen/@azure/ms-rest-browserauth/**": "azure",
         "docs-ref-autogen/@azure/ms-rest-js/**": "azure",
